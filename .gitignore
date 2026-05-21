@@ -1,0 +1,9 @@
+# Datasets (large files)
+archive.zip
+archive/
+back up data/
+
+# Python / Jupyter temporary files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
