@@ -165,8 +165,8 @@ Hour 32–36  🚀  PDF report + PPT + GitHub push
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/loan-default-prediction.git
-cd loan-default-prediction
+git clone https://github.com/SudhanshuBiswas01/HackRush_Hackhon_IITGN.git
+cd HackRush_Hackhon_IITGN
 
 # 2. Install dependencies
 pip install lightgbm shap kagglehub pandas numpy scikit-learn matplotlib seaborn
@@ -183,7 +183,7 @@ jupyter notebook loan_default_prediction.ipynb
 ## 📁 Project Structure
 
 ```
-loan-default-prediction/
+HackRush_Hackhon_IITGN/
 │
 ├── loan_default_prediction.ipynb   # Main notebook
 ├── report/
